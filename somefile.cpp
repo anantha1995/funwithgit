@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 int main() {
-	console.log( 'hello world' );
+	cout<<'hello world' ;
+	cout<<'bye world';
 	return 0;
 }
